@@ -26,12 +26,20 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
+<<<<<<< HEAD
      inkscape:cx="235.18084"
+=======
+     inkscape:cx="29.109718"
+>>>>>>> 110716fc3a20e03018666dc480e1938713140abd
      inkscape:cy="166.63544"
      inkscape:document-units="mm"
      inkscape:current-layer="g6018"
      showgrid="false"
+<<<<<<< HEAD
      inkscape:pagecheckerboard="true"
+=======
+     inkscape:pagecheckerboard="false"
+>>>>>>> 110716fc3a20e03018666dc480e1938713140abd
      inkscape:window-width="1600"
      inkscape:window-height="821"
      inkscape:window-x="0"
@@ -63,8 +71,12 @@
          id="g6018"
          transform="matrix(1.0084821,0,0,1.0037248,43.974771,5.3083105)">
         <g
+<<<<<<< HEAD
            id="g932"
            transform="translate(-84.39076,9.4194439)">
+=======
+           id="g932">
+>>>>>>> 110716fc3a20e03018666dc480e1938713140abd
           <g
              style="stroke-width:15.26491547"
              transform="matrix(1.1587941,0,0,1.1587949,237.25378,-5.6557581)"
@@ -85,18 +97,31 @@
           </g>
           <flowRoot
              transform="matrix(21.759916,0,0,20.674371,-5716.5911,-563.65393)"
+<<<<<<< HEAD
              style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.87951922"
              id="flowRoot1348"
              xml:space="preserve"><flowRegion
                style="fill:#ffffff;fill-opacity:1;stroke-width:3.87951922"
                id="flowRegion1350"><rect
                  style="fill:#ffffff;fill-opacity:1;stroke-width:3.87951922"
+=======
+             style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.87951922;"
+             id="flowRoot1348"
+             xml:space="preserve"><flowRegion
+               style="stroke-width:3.87951922;fill:#ffffff;fill-opacity:1;"
+               id="flowRegion1350"><rect
+                 style="stroke-width:3.87951922;fill:#ffffff;fill-opacity:1;"
+>>>>>>> 110716fc3a20e03018666dc480e1938713140abd
                  y="4.9358869"
                  x="304.05591"
                  height="144.45181"
                  width="535.38086"
                  id="rect1352" /></flowRegion><flowPara
+<<<<<<< HEAD
                style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Russo One';-inkscape-font-specification:'Russo One Bold Italic';fill:#ffffff;fill-opacity:1;stroke-width:0.8980633"
+=======
+               style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Russo One';-inkscape-font-specification:'Russo One Bold Italic';fill:#ffffff;stroke-width:0.8980633;fill-opacity:1;"
+>>>>>>> 110716fc3a20e03018666dc480e1938713140abd
                id="flowPara1354">Brann</flowPara></flowRoot>        </g>
       </g>
     </g>
